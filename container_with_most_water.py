@@ -17,3 +17,7 @@ class Solution:
                 r -= 1  # Move the right pointer leftward
 
         return result
+
+
+# time complexity: O(n)
+# space complexity: O(1)
